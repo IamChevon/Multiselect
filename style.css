@@ -1,0 +1,26 @@
+.item {
+display: block;
+margin: .2em;
+border-radius: .2em;
+padding: .8em;
+}
+.checked {
+    background-color: grey;
+}
+
+#item-list {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid grey;
+    padding: .3em;
+    margin: .5em;
+}
+
+.list {
+    padding: 1em;
+}
+
+.title {
+    margin-top: 0;
+}
