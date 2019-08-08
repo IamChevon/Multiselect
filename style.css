@@ -1,8 +1,15 @@
+.container{
+    width: 40%;
+    margin: auto;
+    justify-self: center;
+    padding: 1em;
+}
+
 .item {
 display: block;
-margin: .2em;
+margin: .5em 0;
 border-radius: .2em;
-padding: .8em;
+padding: .6em .3em;
 }
 .checked {
     background-color: grey;
@@ -15,13 +22,16 @@ padding: .8em;
     border-bottom: 2px solid grey;
     padding: .3em;
     margin: .5em;
-    width: 12%;
+    width: 60%;
 }
 
 .list {
-    padding: 1em;
+   margin: .2em;
+   padding: .8em;
 }
 
 .title {
     margin-top: 0;
+    border-radius: .2em;
+    padding: .6em .3em;
 }
