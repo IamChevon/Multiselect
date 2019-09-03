@@ -10,6 +10,7 @@ display: block;
 margin: .5em 0;
 border-radius: .2em;
 padding: .6em .3em;
+cursor: pointer;
 }
 .checked {
     background-color: grey;
@@ -34,4 +35,5 @@ padding: .6em .3em;
     margin-top: 0;
     border-radius: .2em;
     padding: .6em .3em;
+    cursor: pointer;
 }
